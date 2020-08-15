@@ -1,0 +1,15 @@
+textarea{
+    width: 262px;
+    height: 75px;
+}
+
+#quest{
+    text-shadow: 1px 1px red;
+}
+
+address{
+    border: 10px solid transparent;
+    padding: 15px;
+    border-image: url(../images/border.png) 30 round;
+    width: 300px;
+}
